@@ -1,0 +1,9 @@
+role_id,role_title,career_category,target_python,target_java,target_dsa,target_mathematics,target_communication,target_problem_solving,required_skills,experience_level,job_outlook
+R01,Machine Learning Engineer,Data Science & AI,90,50,85,90,70,90,"python, numpy, pandas, scikit-learn, pytorch, tensorflow, dsa, mathematics, statistics, machine learning, sql, git",Entry-to-Mid,High Growth (32% YoY)
+R02,Data Scientist,Data Science & AI,85,45,75,92,80,85,"python, pandas, numpy, scikit-learn, sql, data visualization, statistics, mathematics, hypothesis testing, tableau, machine learning",Entry-to-Mid,High Demand (28% YoY)
+R03,Backend Software Engineer,Software Development,70,90,90,65,70,88,"java, spring boot, microservices, dsa, sql, rest apis, git, docker, problem solving, system design, junit",Entry-to-Mid,Strong & Steady (21% YoY)
+R04,Full Stack Web Developer,Full Stack Development,80,75,82,65,82,82,"javascript, react, node.js, python, html, css, rest apis, sql, git, typescript, responsive design",Entry-to-Mid,High Demand (25% YoY)
+R05,Cloud & DevOps Engineer,Cloud & DevOps,75,55,68,60,82,80,"python, linux, docker, kubernetes, aws, terraform, ci/cd, git, bash, networking, cloud computing",Entry-to-Mid,Very High Demand (29% YoY)
+R06,Cybersecurity Analyst,Cybersecurity,80,50,70,75,68,85,"python, networking, linux, cryptography, threat modeling, ethical hacking, wireshark, security protocols, git",Entry-to-Mid,Critical Shortage (35% YoY)
+R07,Data & BI Analyst,Data & Business Analytics,80,40,60,88,88,78,"sql, python, tableau, power bi, excel, data visualization, communication, statistics, business intelligence",Entry,High Demand (24% YoY)
+R08,AI Research Assistant,Data Science & AI,92,45,88,95,75,92,"python, deep learning, pytorch, linear algebra, calculus, statistics, algorithms, research, git",Entry,Rapid Expansion (38% YoY)

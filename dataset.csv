@@ -1,0 +1,121 @@
+student_id,python,java,dsa,mathematics,communication,problem_solving,primary_interest,career_category
+S001,88,60,82,75,70,85,AI & Machine Learning,Data Science & AI
+S002,65,85,88,60,65,80,Backend Development,Software Development
+S003,70,55,60,50,80,72,Cloud & DevOps,Cloud & DevOps
+S004,82,50,68,78,60,80,Cybersecurity,Cybersecurity
+S005,80,45,62,88,82,78,Data Analytics,Data & Business Analytics
+S006,75,80,82,65,78,82,Full Stack Development,Full Stack Development
+S007,92,58,85,90,68,88,AI & Machine Learning,Data Science & AI
+S008,55,90,92,62,60,84,Backend Development,Software Development
+S009,68,62,65,58,84,70,Cloud & DevOps,Cloud & DevOps
+S010,78,52,70,72,62,82,Cybersecurity,Cybersecurity
+S011,75,40,58,92,85,75,Data Analytics,Data & Business Analytics
+S012,78,82,85,60,82,80,Full Stack Development,Full Stack Development
+S013,85,62,78,85,72,82,AI & Machine Learning,Data Science & AI
+S014,60,88,85,65,68,78,Backend Development,Software Development
+S015,72,58,62,55,82,74,Cloud & DevOps,Cloud & DevOps
+S016,80,48,65,70,65,85,Cybersecurity,Cybersecurity
+S017,82,42,60,86,88,76,Data Analytics,Data & Business Analytics
+S018,72,78,80,62,85,80,Full Stack Development,Full Stack Development
+S019,95,65,90,94,75,92,AI & Machine Learning,Data Science & AI
+S020,58,94,90,60,62,86,Backend Development,Software Development
+S021,74,60,64,52,86,75,Cloud & DevOps,Cloud & DevOps
+S022,84,54,72,76,64,84,Cybersecurity,Cybersecurity
+S023,78,44,56,90,84,78,Data Analytics,Data & Business Analytics
+S024,80,85,88,68,80,85,Full Stack Development,Full Stack Development
+S025,90,52,84,88,70,86,AI & Machine Learning,Data Science & AI
+S026,62,86,84,66,70,80,Backend Development,Software Development
+S027,70,65,60,54,85,72,Cloud & DevOps,Cloud & DevOps
+S028,82,56,68,74,62,82,Cybersecurity,Cybersecurity
+S029,84,40,62,84,88,80,Data Analytics,Data & Business Analytics
+S030,76,82,84,64,84,82,Full Stack Development,Full Stack Development
+S031,86,64,80,82,74,84,AI & Machine Learning,Data Science & AI
+S032,64,88,86,62,64,82,Backend Development,Software Development
+S033,75,58,66,56,80,76,Cloud & DevOps,Cloud & DevOps
+S034,78,50,70,78,60,80,Cybersecurity,Cybersecurity
+S035,76,46,58,92,86,74,Data Analytics,Data & Business Analytics
+S036,82,78,82,66,80,84,Full Stack Development,Full Stack Development
+S037,94,60,88,92,72,90,AI & Machine Learning,Data Science & AI
+S038,56,92,92,64,66,88,Backend Development,Software Development
+S039,72,62,64,58,82,74,Cloud & DevOps,Cloud & DevOps
+S040,86,48,74,72,64,86,Cybersecurity,Cybersecurity
+S041,80,42,60,88,90,78,Data Analytics,Data & Business Analytics
+S042,74,84,86,62,82,80,Full Stack Development,Full Stack Development
+S043,88,66,82,86,76,85,AI & Machine Learning,Data Science & AI
+S044,68,84,82,60,68,78,Backend Development,Software Development
+S045,76,60,65,55,85,78,Cloud & DevOps,Cloud & DevOps
+S046,80,55,68,75,65,82,Cybersecurity,Cybersecurity
+S047,82,38,56,94,84,80,Data Analytics,Data & Business Analytics
+S048,78,80,80,68,85,82,Full Stack Development,Full Stack Development
+S049,92,68,86,90,74,88,AI & Machine Learning,Data Science & AI
+S050,54,90,88,66,62,82,Backend Development,Software Development
+S051,70,64,62,54,88,72,Cloud & DevOps,Cloud & DevOps
+S052,85,50,72,76,66,84,Cybersecurity,Cybersecurity
+S053,74,44,62,90,88,76,Data Analytics,Data & Business Analytics
+S054,80,86,84,65,80,84,Full Stack Development,Full Stack Development
+S055,87,58,84,85,70,84,AI & Machine Learning,Data Science & AI
+S056,66,86,85,64,72,80,Backend Development,Software Development
+S057,74,56,60,58,82,75,Cloud & DevOps,Cloud & DevOps
+S058,82,52,70,74,68,82,Cybersecurity,Cybersecurity
+S059,78,46,64,86,85,78,Data Analytics,Data & Business Analytics
+S060,75,80,82,66,84,80,Full Stack Development,Full Stack Development
+S061,90,62,88,92,72,90,AI & Machine Learning,Data Science & AI
+S062,58,92,90,62,60,86,Backend Development,Software Development
+S063,72,60,66,52,86,74,Cloud & DevOps,Cloud & DevOps
+S064,84,54,70,78,64,85,Cybersecurity,Cybersecurity
+S065,80,40,58,94,88,78,Data Analytics,Data & Business Analytics
+S066,78,84,86,64,82,82,Full Stack Development,Full Stack Development
+S067,86,66,82,84,75,84,AI & Machine Learning,Data Science & AI
+S068,65,88,84,68,66,80,Backend Development,Software Development
+S069,76,58,62,56,84,76,Cloud & DevOps,Cloud & DevOps
+S070,82,48,72,70,62,84,Cybersecurity,Cybersecurity
+S071,76,42,60,92,86,76,Data Analytics,Data & Business Analytics
+S072,80,82,84,66,86,82,Full Stack Development,Full Stack Development
+S073,94,64,90,95,76,92,AI & Machine Learning,Data Science & AI
+S074,52,94,92,60,64,88,Backend Development,Software Development
+S075,70,66,64,54,85,72,Cloud & DevOps,Cloud & DevOps
+S076,86,52,74,76,65,86,Cybersecurity,Cybersecurity
+S077,82,44,58,88,90,80,Data Analytics,Data & Business Analytics
+S078,76,80,82,68,82,80,Full Stack Development,Full Stack Development
+S079,88,60,84,86,72,86,AI & Machine Learning,Data Science & AI
+S080,62,86,86,64,70,82,Backend Development,Software Development
+S081,74,62,65,58,82,75,Cloud & DevOps,Cloud & DevOps
+S082,80,54,68,72,66,80,Cybersecurity,Cybersecurity
+S083,78,38,62,90,85,75,Data Analytics,Data & Business Analytics
+S084,82,84,86,62,80,84,Full Stack Development,Full Stack Development
+S085,91,65,86,92,70,88,AI & Machine Learning,Data Science & AI
+S086,60,90,88,62,65,84,Backend Development,Software Development
+S087,72,56,60,52,86,74,Cloud & DevOps,Cloud & DevOps
+S088,84,50,70,75,62,82,Cybersecurity,Cybersecurity
+S089,75,45,56,94,88,76,Data Analytics,Data & Business Analytics
+S090,78,78,80,66,84,80,Full Stack Development,Full Stack Development
+S091,89,62,84,88,74,86,AI & Machine Learning,Data Science & AI
+S092,56,92,90,65,62,85,Backend Development,Software Development
+S093,75,64,66,55,84,76,Cloud & DevOps,Cloud & DevOps
+S094,82,52,72,74,65,84,Cybersecurity,Cybersecurity
+S095,80,42,60,92,86,78,Data Analytics,Data & Business Analytics
+S096,76,82,84,65,82,82,Full Stack Development,Full Stack Development
+S097,93,66,88,94,76,90,AI & Machine Learning,Data Science & AI
+S098,58,94,94,62,64,88,Backend Development,Software Development
+S099,70,60,62,56,86,72,Cloud & DevOps,Cloud & DevOps
+S100,85,55,74,78,64,85,Cybersecurity,Cybersecurity
+S101,78,40,58,88,90,76,Data Analytics,Data & Business Analytics
+S102,80,84,85,68,85,84,Full Stack Development,Full Stack Development
+S103,87,60,82,84,72,82,AI & Machine Learning,Data Science & AI
+S104,64,86,84,66,68,80,Backend Development,Software Development
+S105,72,58,64,54,82,75,Cloud & DevOps,Cloud & DevOps
+S106,81,50,68,76,66,82,Cybersecurity,Cybersecurity
+S107,76,46,62,90,84,76,Data Analytics,Data & Business Analytics
+S108,74,78,80,64,82,80,Full Stack Development,Full Stack Development
+S109,92,64,88,92,74,88,AI & Machine Learning,Data Science & AI
+S110,55,90,92,60,62,86,Backend Development,Software Development
+S111,76,62,65,58,84,76,Cloud & DevOps,Cloud & DevOps
+S112,83,52,70,72,65,84,Cybersecurity,Cybersecurity
+S113,82,42,58,94,88,78,Data Analytics,Data & Business Analytics
+S114,78,82,86,66,80,82,Full Stack Development,Full Stack Development
+S115,88,68,86,88,75,86,AI & Machine Learning,Data Science & AI
+S116,62,88,85,64,68,82,Backend Development,Software Development
+S117,74,60,62,52,86,74,Cloud & DevOps,Cloud & DevOps
+S118,84,54,72,75,62,84,Cybersecurity,Cybersecurity
+S119,79,44,60,88,86,76,Data Analytics,Data & Business Analytics
+S120,77,80,82,65,84,80,Full Stack Development,Full Stack Development

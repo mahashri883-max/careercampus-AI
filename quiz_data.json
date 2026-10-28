@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "category": "Python",
+    "question": "What is the output of the following Python expression: `type(lambda: None)`?",
+    "options": [
+      "<class 'function'>",
+      "<class 'lambda'>",
+      "<class 'NoneType'>",
+      "<class 'generator'>"
+    ],
+    "correct_index": 0,
+    "explanation": "In Python, lambda functions are instances of the standard `function` type, identical to functions created via `def` statements.",
+    "skill_tested": "Python"
+  },
+  {
+    "id": 2,
+    "category": "DSA",
+    "question": "What is the worst-case time complexity of searching an element in a balanced Binary Search Tree (AVL or Red-Black Tree)?",
+    "options": [
+      "O(1)",
+      "O(log N)",
+      "O(N)",
+      "O(N log N)"
+    ],
+    "correct_index": 1,
+    "explanation": "Because balanced binary search trees maintain a maximum height proportional to log2(N), lookup, insertion, and deletion all execute in O(log N) worst-case time.",
+    "skill_tested": "DSA"
+  },
+  {
+    "id": 3,
+    "category": "Java",
+    "question": "Which keyword in Java ensures that a variable's value is always read directly from main memory rather than a thread's local cache?",
+    "options": [
+      "synchronized",
+      "transient",
+      "volatile",
+      "final"
+    ],
+    "correct_index": 2,
+    "explanation": "The `volatile` keyword in Java guarantees visibility of changes to variables across threads by bypassing CPU core L1/L2 caches and syncing with main RAM.",
+    "skill_tested": "Java"
+  },
+  {
+    "id": 4,
+    "category": "Mathematics",
+    "question": "If you roll two fair 6-sided dice, what is the probability that the sum of the two faces is exactly 8?",
+    "options": [
+      "5 / 36",
+      "1 / 6",
+      "7 / 36",
+      "1 / 9"
+    ],
+    "correct_index": 0,
+    "explanation": "Total possible outcomes = 6 * 6 = 36. Pairs summing to 8 are: (2,6), (3,5), (4,4), (5,3), (6,2) — exactly 5 combinations. Probability = 5/36 (~13.89%).",
+    "skill_tested": "Mathematics"
+  },
+  {
+    "id": 5,
+    "category": "Python",
+    "question": "What happens when using a mutable default argument in a Python function, such as `def append_item(item, lst=[])`?",
+    "options": [
+      "A new empty list is allocated on every call",
+      "A SyntaxError is raised at compilation time",
+      "The default list is created once at definition and shared across subsequent calls",
+      "The list resets to empty when the function exits"
+    ],
+    "correct_index": 2,
+    "explanation": "Default argument expressions are evaluated once when the function definition is executed, so the mutable object is retained across calls unless explicitly reinitialized.",
+    "skill_tested": "Python"
+  },
+  {
+    "id": 6,
+    "category": "DSA",
+    "question": "Which data structure is optimal for evaluating arithmetic expressions written in Postfix notation (Reverse Polish Notation)?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Min-Heap",
+      "Hash Table"
+    ],
+    "correct_index": 1,
+    "explanation": "A Stack operates on LIFO (Last-In First-Out) principle, allowing operands to be pushed and popped immediately when operators are encountered.",
+    "skill_tested": "DSA"
+  },
+  {
+    "id": 7,
+    "category": "Problem Solving",
+    "question": "If 6 software engineers can build 6 microservices in 6 days, how many days will 12 software engineers take to build 12 microservices at the same rate?",
+    "options": [
+      "3 days",
+      "6 days",
+      "12 days",
+      "1 day"
+    ],
+    "correct_index": 1,
+    "explanation": "1 engineer builds 1 microservice in 6 days. Therefore, 12 engineers building 12 microservices concurrently still take exactly 6 days.",
+    "skill_tested": "Problem Solving"
+  },
+  {
+    "id": 8,
+    "category": "Java",
+    "question": "What is the primary difference between `Comparable` and `Comparator` interfaces in Java?",
+    "options": [
+      "Comparable modifies class code with compareTo; Comparator defines external multiple sorting strategies",
+      "Comparable is in java.awt; Comparator is in java.lang",
+      "Comparable can only sort primitives, while Comparator sorts objects",
+      "There is no difference; they are aliases"
+    ],
+    "correct_index": 0,
+    "explanation": "`Comparable` provides the natural ordering implemented within the class itself via `compareTo()`, whereas `Comparator` provides customized sorting externally via `compare()`.",
+    "skill_tested": "Java"
+  },
+  {
+    "id": 9,
+    "category": "Mathematics",
+    "question": "In machine learning and statistics, what does the eigenvalues of a covariance matrix represent in Principal Component Analysis (PCA)?",
+    "options": [
+      "The classification error rate",
+      "The variance explained along each principal eigenvector axis",
+      "The learning rate of gradient descent",
+      "The number of clusters in k-means"
+    ],
+    "correct_index": 1,
+    "explanation": "In PCA, the eigenvectors determine the directions of maximal variance, and the corresponding eigenvalues quantify the magnitude of variance captured along each axis.",
+    "skill_tested": "Mathematics"
+  },
+  {
+    "id": 10,
+    "category": "Problem Solving",
+    "question": "You have an unsorted array of integers from 1 to N with exactly one missing number. What is the optimal time and space complexity to find the missing number?",
+    "options": [
+      "Time O(N log N), Space O(1)",
+      "Time O(N), Space O(1)",
+      "Time O(N), Space O(N)",
+      "Time O(1), Space O(N)"
+    ],
+    "correct_index": 1,
+    "explanation": "Using Gauss's summation formula `Sum = N*(N+1)/2` or XOR bit manipulation, you compute the sum/XOR in O(N) time using O(1) auxiliary space.",
+    "skill_tested": "Problem Solving"
+  },
+  {
+    "id": 11,
+    "category": "Communication",
+    "question": "During a technical post-mortem after an outage, which principle leads to the best long-term engineering improvement?",
+    "options": [
+      "Identify the individual engineer responsible to enforce accountability",
+      "Blameless post-mortem focusing on systemic failure modes and automated safeguards",
+      "Avoid documenting edge cases that are unlikely to reoccur",
+      "Restrict production access exclusively to senior management"
+    ],
+    "correct_index": 1,
+    "explanation": "Industry-standard blameless post-mortems treat errors as systemic vulnerabilities, fostering psychological safety and building resilient automated safeguards.",
+    "skill_tested": "Communication"
+  },
+  {
+    "id": 12,
+    "category": "DSA",
+    "question": "What is the average time complexity of finding an element in a Hash Map with a well-designed hash function?",
+    "options": [
+      "O(log N)",
+      "O(N)",
+      "O(1)",
+      "O(N^2)"
+    ],
+    "correct_index": 2,
+    "explanation": "With uniform distribution and minimal collisions, hash tables compute the bucket index via hash function directly in O(1) amortized time.",
+    "skill_tested": "DSA"
+  }
+]
